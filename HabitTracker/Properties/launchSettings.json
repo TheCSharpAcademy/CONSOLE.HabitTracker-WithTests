@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabitTracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Pablo\\c-sharp-academy.09.habit-tracker-with-tests\\HabitTracker"
+    }
+  }
+}
